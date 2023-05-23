@@ -1,4 +1,4 @@
-This is a basic dice game that I have created using HTML, CSS and basic JavaScript in my path to learn Web Development.
+This is a basic dice game that I have created using HTML, CSS and basic JavaScript in which if you reload the page the two dice randomly generaltes a value from 1 to 6 and whose value is greater it wins.
 
 Have a look :
 
